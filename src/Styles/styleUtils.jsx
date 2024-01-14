@@ -1,0 +1,1 @@
+export const removeNumberInputControls = '[appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none'
